@@ -8,15 +8,16 @@
 **bold**
 ***italics bold***
 
--item1
--item2
--item3
+- item1
+  + item1-1
+- item2
+- item3
 
 ```
 코드블럭
 ```
 
-$\frac{1}{n} \sum_{i=1}^{n} x_{i}$
+$ \frac{1}{n} \sum_{i=1}^{n} x_{i} $
 나무위키 부가설명[^1]
 
 [^1]: 부가설명 1
